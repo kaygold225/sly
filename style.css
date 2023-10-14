@@ -98,8 +98,7 @@ header{
 
 /* Home */
 .home{
-    margin-top: 5rem;
-    
+    margin-top: 5rem; 
     background-image:linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)),url(images/background1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
